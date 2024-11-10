@@ -1,3 +1,5 @@
+# added comment for final submission of project
+
 from breezypythongui import EasyFrame
 
 class TaxCalc(EasyFrame):
